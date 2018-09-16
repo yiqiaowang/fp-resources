@@ -15,3 +15,5 @@
 - [Recursion training](https://github.com/softwaremill/recursion-training#sources-and-resources)
 
 - [Optimizing Tagless Final – Saying farewell to Free](https://typelevel.org/blog/2017/12/27/optimizing-final-tagless.html)
+
+- [From Object Algebras to Finally Tagless Interpreters](https://oleksandrmanzyuk.wordpress.com/2014/06/18/from-object-algebras-to-finally-tagless-interpreters-2/)
