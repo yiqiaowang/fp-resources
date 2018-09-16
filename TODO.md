@@ -12,4 +12,4 @@
 
 - [Exploring Tagless Final pattern for extensive and readable Scala code](https://blog.scalac.io/exploring-tagless-final.html)
 
-- [Recursion training](https://github.com/softwaremill/recursion-training#sources-and-resources
+- [Recursion training](https://github.com/softwaremill/recursion-training#sources-and-resources)
