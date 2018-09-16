@@ -13,3 +13,5 @@
 - [Exploring Tagless Final pattern for extensive and readable Scala code](https://blog.scalac.io/exploring-tagless-final.html)
 
 - [Recursion training](https://github.com/softwaremill/recursion-training#sources-and-resources)
+
+- [Optimizing Tagless Final – Saying farewell to Free](https://typelevel.org/blog/2017/12/27/optimizing-final-tagless.html)
