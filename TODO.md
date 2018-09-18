@@ -21,3 +21,5 @@
 - [Algebraic effect](https://conf.researchr.org/event/scala-2017/scala-2017-papers-effekt-extensible-algebraic-effects-in-scala-short-paper-)
 
 - [Algebraic effect - Microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/algeff-tr-2016-v3.pdf)
+
+- [Applied CT](https://arxiv.org/abs/1809.05923v1)
