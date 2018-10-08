@@ -23,3 +23,5 @@
 - [Algebraic effect - Microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/algeff-tr-2016-v3.pdf)
 
 - [Monad transformer variace](https://typelevel.org/blog/2018/09/29/monad-transformer-variance.html)
+
+- [Typeclass counterexample](https://blog.functorial.com/posts/2015-12-06-Counterexamples.html)
