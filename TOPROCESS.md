@@ -1,11 +1,5 @@
 ## To read
 
-- [Bifunctor IO](http://degoes.net/articles/bifunctor-io)
-
-- [No More Transformers](http://degoes.net/articles/effects-without-transformers)
-
-- [EDSLs](https://typelevel.org/blog/2016/09/21/edsls-part-1.html)
-
 - [Practical Type Safety](http://www.lihaoyi.com/post/StrategicScalaStylePracticalTypeSafety.html)
 
 - [Typed tagless-final interpretations: Lecture notes](http://okmij.org/ftp/tagless-final/course/index.html)
@@ -27,3 +21,5 @@
 - [Typeclass counterexample](https://blog.functorial.com/posts/2015-12-06-Counterexamples.html)
 
 - [Category theory material](https://www.logicmatters.net/categories/)
+
+- [Type class, ultimate ad hoc](https://www.youtube.com/watch?v=2EdQFCP5mZ8)
