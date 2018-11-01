@@ -23,3 +23,5 @@
 - [Category theory material](https://www.logicmatters.net/categories/)
 
 - [Type class, ultimate ad hoc](https://www.youtube.com/watch?v=2EdQFCP5mZ8)
+
+- [Sequent calculus tutorial](http://logitext.mit.edu/logitext.fcgi/tutorial)
