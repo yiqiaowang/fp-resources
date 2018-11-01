@@ -25,3 +25,9 @@
 - [Type class, ultimate ad hoc](https://www.youtube.com/watch?v=2EdQFCP5mZ8)
 
 - [Sequent calculus tutorial](http://logitext.mit.edu/logitext.fcgi/tutorial)
+
+- [Why do monads matter ?](https://cdsmith.wordpress.com/2012/04/18/why-do-monads-matter/)
+
+- [A tale of two Monads: Free vs MTL](http://tech.frontrowed.com/2017/09/28/benching-free/)
+
+- [A tale on Semirings](https://typelevel.org/blog/2018/11/02/semirings.html)
