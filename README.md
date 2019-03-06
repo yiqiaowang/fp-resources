@@ -83,6 +83,9 @@ If you wish to track your progress in the reading list, follow these steps:
     
 - [ ] [What Referential Transparency can do for you - Luka Jacobowitz](https://www.youtube.com/watch?v=X-cEGEJMx_4&feature=youtu.be&t=228)    
 
+- [ ] [May Your Data Ever Be Coherent](https://www.youtube.com/watch?v=gVXt1RG_yN0)
+    - FP design
+    
 <a name="types"></a>
 ### Types
 
@@ -92,6 +95,9 @@ If you wish to track your progress in the reading list, follow these steps:
 
 <a name="effects"></a>
 ### Effects
+
+- [ ] [The Death of Final Tagless](https://skillsmatter.com/skillscasts/13247-scala-matters)
+    - Effect, tagless final alternative
 
 - [ ] [Functional Programming with Effects - Rob Norris](https://www.youtube.com/watch?v=po3wmq4S15A)
     - Effects
@@ -206,6 +212,8 @@ If you wish to track your progress in the reading list, follow these steps:
 <a name="articles"></a>
 ## Articles
 
+- [ ] [https://typelevel.org/blog/2019/02/06/algebraic-api-design.html](https://typelevel.org/blog/2019/02/06/algebraic-api-design.html)
+
 - [ ] [Anatomy of functors and category theory](http://geekocephale.com/blog/2019/02/16/functors-cat-theory)
 
 - [ ] [Anatomy of functional programming](http://geekocephale.com/blog/2018/10/08/fp)
@@ -300,6 +308,17 @@ If you wish to track your progress in the reading list, follow these steps:
 
 - [ ] [Blog: reasonably polymorphic](http://reasonablypolymorphic.com/)
 
+
+### FP code pattern
+
+- [ ] [Handle pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html) (Haskell)
+
+- [ ] [ReaderT pattern](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) (Haskell)
+
+- [ ] [RIO Monad](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) (Haskell)
+
+- [ ] [ZIO Monad, Scala's ReaderT pattern](http://degoes.net/articles/zio-environment)
+
 <a name="academic-papers"></a>
 ## Academic papers
 
@@ -318,6 +337,11 @@ If you wish to track your progress in the reading list, follow these steps:
 - [ ] [Typed tagless-final interpretations: Lecture notes](http://okmij.org/ftp/tagless-final/course/index.html)
 
 <a name="blogs"></a>
+
+## Lectures
+
+- [ ] [Goteborg university - Haskell advanced Functional Programming](https://chalmers.instructure.com/courses/3766/assignments/syllabus)
+
 ## Blogs
 
 - [ ] [Typelevel](https://typelevel.org/blog/)
