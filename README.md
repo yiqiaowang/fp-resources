@@ -23,6 +23,7 @@
 * [Newsletters](#newsletters)
 * [Podcasts](#podcasts)
 * [Repositories](#repositories)
+* [Events](#events)
 
 <a name="fp-patterns"></a>
 ## Functional Programming Patterns
@@ -50,6 +51,12 @@
 * [Functional Patterns in Domain Modeling — Debasish Ghosh](https://www.youtube.com/watch?v=U0Rk9Knq8Vk)
     * _Functional domain modeling_
 
+* [Thinking Functionally](https://www.youtube.com/watch?v=-KA3BSdqYug)
+    * _Live-refactor concurrent imperative program with ZIO_
+
+* [Functors, in theory and in practice! - Martin Menestret](https://www.youtube.com/watch?v=_zRBKHN8exA&feature=youtu.be)
+    * _Functors_
+
 ### Articles
 
 * [Anatomy of functional programming](http://geekocephale.com/blog/2018/10/08/fp)
@@ -69,6 +76,8 @@
 
 * [Anatomy of an algebra](http://geekocephale.com/blog/2018/10/06/algebras)
     * _Algebraic Data Type (ADT)_
+
+* [A journey from imperative OO to pure functional programming](https://guizmaii.github.io/LilleFP/#1)
 
 <a name="types"></a>
 ## Types
@@ -104,6 +113,9 @@
 * [How do Algebraic Data types compare to the concept of inheritance in Object Oriented Languages ?](https://www.quora.com/How-do-Algebraic-Data-types-in-say-Haskell-compare-to-the-concept-of-inheritance-in-Object-Oriented-Languages-in-say-Java/answer/Bartosz-Milewski?share=1c2ac3a8)
     * _Algebraic Data Types (ADTs)_
 
+* [Data type vs Data constructor](https://stackoverflow.com/a/18205862/10915960) [**Haskell**]
+   * _What are data types and data constructors, how they relate in Haskell_
+
 <a name="effects"></a>
 ## Functional Effects
 
@@ -116,7 +128,7 @@
     * _Functional Effects, Tagless Final alternative with ZIO_
 
 * [The Making of an IO - Daniel Spiewak](https://www.youtube.com/watch?v=g_jP47HFpWA)
-    * _IO Monad with Cats Effects_
+    * _IO Monad with Cats Effect_
     
 * [http4s: pure, typeful, functional HTTP in Scala – Ross Baker](https://www.youtube.com/watch?time_continue=1915&v=urdtmx4h5LE)
     * _IO, HTTP4s, Kleisli_
@@ -128,12 +140,21 @@
     * _State, StateT, IndexedState_
     
 * [Michał Płachta - Fast & Functional](https://www.youtube.com/watch?v=xAhrgxUeOvY)
-    * _FP design, tagless final, performance_    
+    * _FP design, tagless final, performance_  
+
+* [Gabriel Volpe - Cats Effect: The IO Monad for Scala](https://www.youtube.com/watch?v=8_TWM2t97r4&t=18s)
+    * _Cats Effect, error handling, safe resource management, concurrency, parallelism_
+
+* [John De Goes - Error Management: Future vs ZIO](https://www.youtube.com/watch?v=mGxcaQs3JWI)
+    * _Errors composition, ZIO, Future_
 
 ### Articles
 
+* [IO monads, Tagless final, free and alternatives](https://kubuszok.com/2019/io-monad-which-why-and-how/#cats-io-vs-monix-task-vs-zio)
+    * _IO, Tagless final, Free, Eff_
+
 * [ZIO Monad, Scala's ReaderT pattern](http://degoes.net/articles/zio-environment)
-    * _Functiona Effects, Tagless Final, ReaderT_
+    * _Functional Effects, Tagless Final, ReaderT_
 
 * [Effekt: Extensible Algebraic Effects in Scala](https://conf.researchr.org/event/scala-2017/scala-2017-papers-effekt-extensible-algebraic-effects-in-scala-short-paper-)
     * _Algebraic effects, Scala library Effekt_
@@ -143,6 +164,12 @@
 
 * [ReaderT pattern: RIO](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) [**Haskell**]
     * _Better globals with ReaderT_
+
+* [Why Functional Programming? It's the composition](https://tech.iheart.com/why-fp-its-the-composition-f585d17b01d3)
+    * _Compositions, Effects, Functor, Monad, Category Theory_
+
+* [A Problem With I/O](http://www-cs-students.stanford.edu/~blynn/haskell/io.html) [**Haskell**]
+	* _Monad IO in Haskell_
 
 <a name="semigroup-monoid"></a>
 ## Semigroup / Monoid
@@ -212,6 +239,8 @@
     
 * [Finally Tagless - Not Quite Dead Yet](https://github.com/ncreep/bloggable-thoughts/tree/master/finally-tagless-not-quite-dead)
     * _Tagless Final, code examples_
+    
+* [The False Hope of Managing Effects with Tagless-Final in Scala](http://degoes.net/articles/tagless-horror)
 
 <a name="monad-stack"></a>
 ## Monad stack
@@ -270,7 +299,7 @@
     * _Free Monad vs MTL style_
 
 * [A tale of two Monads: Free vs MTL](https://tech.freckle.com/2017/09/28/benching-free/)
-    * _Journey through Free and MTL style
+    * _Journey through Free and MTL style_
 
 <a name="typeclass"></a>
 ## Typeclass
@@ -316,6 +345,9 @@
 
 * [Concurrency with Cats-effect - Michael Pilquist](https://www.youtube.com/watch?v=Gig-f_HXvLI)
     * _fiber, Cats Effects, fs2_
+
+* [ATOMICALLY { DELETE YOUR ACTORS } - John A De Goes & Wiem Zine Elabadine](https://www.youtube.com/watch?v=d6WWmia0BPM&list=PL8NC5lCgGs6MYG0hR_ZOhQLvtoyThURka)
+    * _ZIO, STM, Promise, Queue and more_
 
 ### Articles
 
@@ -374,9 +406,6 @@
 
 * [Category Theory - Bartosz Milewski](https://www.youtube.com/user/DrBartosz/playlists)
     * _Category Theory playlist_
-
-* [Propositions as Types - Philip Wadler](https://www.youtube.com/watch?v=IOiZatlZtGU)    
-    * _Relation between Logic and Computation_
     
 * [Stephen Pimentel - Propositions as Types for Beginners in Haskell](https://www.youtube.com/watch?v=tfG7T54MhIU&index=29&t=0s&list=PL7DZ7q3nEWhzLs7nLb57N75EY4py_P7pI) [**Haskell**]
     * _Curry-Howard isomorphism_
@@ -426,16 +455,25 @@
     * _High-Order Functions (HOFs) and Lazy Evaluation_
 
 * [Algebraic effects for Functional Programming](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/algeff-tr-2016-v3.pdf)
-    * _Algebraic Effects, Type Inference, compilation scheme
+    * _Algebraic Effects, Type Inference, compilation scheme_
 
 <a name="lectures"></a>
-## Letures
+## Lectures
+
+* [FP Foundation - Julien Truffaut](https://github.com/julien-truffaut/fp-foundation)
+   * _Scala course, Functional programming_
 
 * [Goteborg university - Haskell advanced Functional Programming](https://chalmers.instructure.com/courses/3766/assignments/syllabus) [**Haskell**]
-    * _Haskell Course_
+    * _Haskell course_
 
-- [Data61 Haskell functional programming course](https://github.com/data61/fp-course)
-    * _Functional Programming Course_
+* [Data61 Haskell functional programming course](https://github.com/data61/fp-course) [**Haskell**]
+    * _Haskell, Functional programming course_
+
+* [Google's Haskell 101 and 102](https://github.com/google/haskell-trainings) [**Haskell**]
+   * _Haskell, Functional programming, beginner friendly_
+
+* [Teaching Tech Together](http://teachtogether.tech/)
+   * _Creating good tech teaching resources_
 
 <a name="blogs"></a>
 ## Blogs
@@ -464,6 +502,8 @@
 
 * [Blog: reasonably polymorphic](http://reasonablypolymorphic.com/)
 
+* [Fabio Labella writings](http://systemfw.org/writings.html)
+
 <a name="books"></a>
 ## Books
 
@@ -480,6 +520,8 @@
     * [Scala](https://github.com/typelevel/CT_from_Programmers.scala)
 
 * [A History of Computation, Logic and Algebra](https://pron.github.io/computation-logic-algebra)
+
+* [The Books of Monads](https://www.goodreads.com/book/show/42449863-the-book-of-monads) [**Scala**] [**Haskell**]
 
 <a name="chat-rooms"></a>
 ## Chat rooms
@@ -515,10 +557,19 @@
     * _Http4s, Circe, Doobie, Cats, Cats Effects, ScalaCheck, Circe Config, Tagless Final_
 
 * [Befunge-93](https://github.com/SystemFw/Befunge-93)
-    * _Cats, Cats Effetcs, fs2, Tagless Final_
+    * _Cats, Cats Effects, fs2, Tagless Final_
 
 * [Scala typeclassopedia](https://github.com/lemastero/scala_typeclassopedia)
     * *Patterns from math (Category theory, Abstract algebra) in Scala*
+
+<a name="events"></a>
+## Events
+
+* [Upcoming events - Signify technology](https://www.signifytechnology.com/events)
+
+* [Upcoming events - Scala lang](https://www.scala-lang.org/events/)
+
+* [IT conferences Call For Papers list - SoftwareMill](https://github.com/softwaremill/it-cfp-list)
     
 ## Special thanks
 
